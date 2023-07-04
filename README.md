@@ -1,14 +1,14 @@
-### Olá! Me chamo Erik Pospichil e sou um Desenvolvedor Android!
+### Hello! My name is Erik Pospichil and I'm an Android Developer!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikPospichil&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikPospichil&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Aprendendo no momento: _Desenvolvimento Android_.
+- 🌱 Learning now: _Android development_.
 
 ##
  
-### Contate-me pelos links abaixo:
+### Contact me through the links below:
 
 <div>
   <a href = "mailto:devpospichil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
